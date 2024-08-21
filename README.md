@@ -1,1 +1,2 @@
-# PlayList
+# PlayList:
+Consiste en crear una playlist; en la que se solicite inicialmente el nombre de la misma. Luego la cantidad de canciones se desean agregar a la lista, seguidamente tendra que pedir ir agregando la cantidad de canciones de una en una. Debe de mostrar la cantidad de canciones que faltan por agregar y la playlist con que ya se han agregado hasta el momento. Y al terminar un mensaje con el nombre de la playlist y la lista de canciones

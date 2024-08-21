@@ -55,13 +55,44 @@ body {
 }
 
 h1 {
-    font-size: 30px;
+    font-size: 50px;
     display: flex;
     align-items: center;
     justify-content: center;
     position: relative;
-    margin: 50px 70px;
+    margin: 50px;
+    left: 10px;
     white-space: nowrap;
     color: rgb(53, 27, 165);
     text-shadow: 4px 4px 8px rgba(75, 22, 140, 0.333);
+}
+
+h2 {
+    position: relative;
+    text-transform: uppercase;
+    left: 20%;
+    font-size: 24px;
+    font-weight: bold;
+    color: rgb(68, 234, 243);
+    background-color: ;
+    
+}
+
+.list {
+    position: relative;
+    background-color: antiquewhite;
+    width: 30%;
+    height: auto;
+    padding: 20px 40px;
+    left: 32%;
+}
+
+li {
+    justify-content: center;
+    position: relative;
+    font-size: 18px;
+    display: flex;
+    color: rgb(61, 179, 202);
+    padding: 2px;
+    
 }
